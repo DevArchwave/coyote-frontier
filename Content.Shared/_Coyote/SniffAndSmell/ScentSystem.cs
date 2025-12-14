@@ -148,13 +148,29 @@ public sealed class ScentSystem : EntitySystem
                 continue;
             if (!LewdOkay(args.Examiner, proto.Lewd))
                 continue;
+            var smellColor = "Cyan";
+            if (proto.Stinky && proto.Lewd)
+            {
+                smellColor = "Orange";
+            }
+            else if (proto.Lewd)
+            {
+                smellColor = "Pink";
+            }
+            else if (proto.Stinky)
+            {
+                smellColor = "Yellow";
+            }
+
             var toAdd = _rng.Pick(proto.ScentsExamine);
-            scentDescriptions.Add(Loc.GetString(
+            var prestring = Loc.GetString(
                 toAdd,
                 ("src", Identity.Entity(
                     args.Examined,
                     EntityManager,
-                    args.Examiner))));
+                    args.Examiner)));
+            prestring = "[color=" + smellColor + "]" + prestring + "[/color]";
+            scentDescriptions.Add(prestring);
         }
 
         if (scentDescriptions.Count == 0)

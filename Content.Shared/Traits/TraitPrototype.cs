@@ -1,4 +1,5 @@
 using Content.Shared._Coyote.HornyQuirks;
+using Content.Shared._Coyote.SniffAndSmell;
 using Content.Shared.Whitelist;
 using Robust.Shared.Prototypes;
 
@@ -73,4 +74,9 @@ public sealed partial class TraitPrototype : IPrototype
     /// </summary>
     [DataField]
     public string? Bodytype;
+    
+    /// Scents!
+    /// </summary>
+    [DataField("scentProtos")]
+    public List<ProtoId<ScentPrototype>> Scents = new();
 }

@@ -74,7 +74,7 @@ public sealed partial class TraitPrototype : IPrototype
     /// </summary>
     [DataField]
     public string? Bodytype;
-    
+
     /// Scents!
     /// </summary>
     [DataField("scentProtos")]

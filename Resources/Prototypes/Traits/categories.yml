@@ -28,7 +28,7 @@
   id: BodyType
   name: trait-category-bodytypes
   maxTraitPoints: 2
- 
+
 - type: traitCategory
   id: Scents
   name: trait-category-scents

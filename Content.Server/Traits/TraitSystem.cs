@@ -69,7 +69,7 @@ public sealed class TraitSystem : EntitySystem
             {
                 EnsureComp<HornyExamineQuirksComponent>(args.Mob).AddHornyAppearance(traitPrototype.Bodytype);
             }
-            
+
             if (traitPrototype.Scents is { Count: > 0 })
             {
                 var scentComp = EnsureComp<ScentComponent>(args.Mob);

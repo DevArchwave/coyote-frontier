@@ -338,53 +338,33 @@
   - sprite: Mobs/Customization/Markings/Genital/vagina.rsi
     state: vagina_spade_1_0_FRONT
 
+# BOOB MARKINGS! BOOB MARKINGS!!!
 - type: marking
   id: GenitalBreastsRoundA
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_pairround_a_0_FRONT: TailOversuit
-    breasts_pairround_a_0_BEHIND: Genital
-  colorLinks:
-    breasts_pairround_a_0_FRONT: breasts_pairround_a_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_a_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_a_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundB
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_pairround_b_0_FRONT: TailOversuit
-    breasts_pairround_b_0_BEHIND: Genital
-  colorLinks:
-    breasts_pairround_b_0_FRONT: breasts_pairround_b_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_b_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_b_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundC
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_pairround_c_0_FRONT: TailOversuit
-    breasts_pairround_c_0_BEHIND: Genital
-  colorLinks:
-    breasts_pairround_c_0_FRONT: breasts_pairround_c_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_c_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_c_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundD
@@ -392,15 +372,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_d_0_FRONT: TailOversuit
-    breasts_pairround_d_0_BEHIND: Genital
+    breasts_pairround_d_0_FRONT: Genital
+    breasts_pair_d_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_d_0_FRONT: breasts_pairround_d_0_BEHIND
+    breasts_pairround_d_0_FRONT: breasts_pair_d_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_d_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_d_0_BEHIND
+    state: breasts_pair_d_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundE
@@ -408,15 +388,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_e_0_FRONT: TailOversuit
-    breasts_pairround_e_0_BEHIND: Genital
+    breasts_pairround_e_0_FRONT: Genital
+    breasts_pair_e_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_e_0_FRONT: breasts_pairround_e_0_BEHIND
+    breasts_pairround_e_0_FRONT: breasts_pair_e_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_e_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_e_0_BEHIND
+    state: breasts_pair_e_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundF
@@ -424,15 +404,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_f_0_FRONT: TailOversuit
-    breasts_pairround_f_0_BEHIND: Genital
+    breasts_pairround_f_0_FRONT: Genital
+    breasts_pair_f_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_f_0_FRONT: breasts_pairround_f_0_BEHIND
+    breasts_pairround_f_0_FRONT: breasts_pair_f_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_f_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_f_0_BEHIND
+    state: breasts_pair_f_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundG
@@ -440,15 +420,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_g_0_FRONT: TailOversuit
-    breasts_pairround_g_0_BEHIND: Genital
+    breasts_pairround_g_0_FRONT: Genital
+    breasts_pair_g_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_g_0_FRONT: breasts_pairround_g_0_BEHIND
+    breasts_pairround_g_0_FRONT: breasts_pair_g_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_g_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_g_0_BEHIND
+    state: breasts_pair_g_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundH
@@ -456,15 +436,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_h_0_FRONT: TailOversuit
-    breasts_pairround_h_0_BEHIND: Genital
+    breasts_pairround_h_0_FRONT: Genital
+    breasts_pair_h_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_h_0_FRONT: breasts_pairround_h_0_BEHIND
+    breasts_pairround_h_0_FRONT: breasts_pair_h_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_h_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_h_0_BEHIND
+    state: breasts_pair_h_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundI
@@ -472,15 +452,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_i_0_FRONT: TailOversuit
-    breasts_pairround_i_0_BEHIND: Genital
+    breasts_pairround_i_0_FRONT: Genital
+    breasts_pair_i_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_i_0_FRONT: breasts_pairround_i_0_BEHIND
+    breasts_pairround_i_0_FRONT: breasts_pair_i_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_i_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_i_0_BEHIND
+    state: breasts_pair_i_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundJ
@@ -488,15 +468,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_j_0_FRONT: TailOversuit
-    breasts_pairround_j_0_BEHIND: Genital
+    breasts_pairround_j_0_FRONT: Genital
+    breasts_pair_j_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_j_0_FRONT: breasts_pairround_j_0_BEHIND
+    breasts_pairround_j_0_FRONT: breasts_pair_j_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_j_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_j_0_BEHIND
+    state: breasts_pair_j_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundK
@@ -504,15 +484,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_k_0_FRONT: TailOversuit
-    breasts_pairround_k_0_BEHIND: Genital
+    breasts_pairround_k_0_FRONT: Genital
+    breasts_pair_k_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_k_0_FRONT: breasts_pairround_k_0_BEHIND
+    breasts_pairround_k_0_FRONT: breasts_pair_k_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_k_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_k_0_BEHIND
+    state: breasts_pair_k_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundL
@@ -520,15 +500,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_l_0_FRONT: TailOversuit
-    breasts_pairround_l_0_BEHIND: Genital
+    breasts_pairround_l_0_FRONT: Genital
+    breasts_pair_l_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_l_0_FRONT: breasts_pairround_l_0_BEHIND
+    breasts_pairround_l_0_FRONT: breasts_pair_l_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_l_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_l_0_BEHIND
+    state: breasts_pair_l_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundM
@@ -536,15 +516,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_m_0_FRONT: TailOversuit
-    breasts_pairround_m_0_BEHIND: Genital
+    breasts_pairround_m_0_FRONT: Genital
+    breasts_pair_m_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_m_0_FRONT: breasts_pairround_m_0_BEHIND
+    breasts_pairround_m_0_FRONT: breasts_pair_m_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_m_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_m_0_BEHIND
+    state: breasts_pair_m_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundN
@@ -552,15 +532,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_n_0_FRONT: TailOversuit
-    breasts_pairround_n_0_BEHIND: Genital
+    breasts_pairround_n_0_FRONT: Genital
+    breasts_pair_n_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_n_0_FRONT: breasts_pairround_n_0_BEHIND
+    breasts_pairround_n_0_FRONT: breasts_pair_n_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_n_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_n_0_BEHIND
+    state: breasts_pair_n_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundO
@@ -568,15 +548,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_o_0_FRONT: TailOversuit
-    breasts_pairround_o_0_BEHIND: Genital
+    breasts_pairround_o_0_FRONT: Genital
+    breasts_pair_o_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_o_0_FRONT: breasts_pairround_o_0_BEHIND
+    breasts_pairround_o_0_FRONT: breasts_pair_o_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_o_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_o_0_BEHIND
+    state: breasts_pair_o_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundMassive
@@ -584,15 +564,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_massive_0_FRONT: TailOversuit
-    breasts_pairround_massive_0_BEHIND: Genital
+    breasts_pairround_massive_0_FRONT: Genital
+    breasts_pair_massive_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_massive_0_FRONT: breasts_pairround_massive_0_BEHIND
+    breasts_pairround_massive_0_FRONT: breasts_pair_massive_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_massive_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_massive_0_BEHIND
+    state: breasts_pair_massive_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundGiga
@@ -600,15 +580,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_giga_0_FRONT: TailOversuit
-    breasts_pairround_giga_0_BEHIND: Genital
+    breasts_pairround_giga_0_FRONT: Genital
+    breasts_pair_giga_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_giga_0_FRONT: breasts_pairround_giga_0_BEHIND
+    breasts_pairround_giga_0_FRONT: breasts_pair_giga_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_giga_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_giga_0_BEHIND
+    state: breasts_pair_giga_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundImpossible
@@ -616,15 +596,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_impossible_0_FRONT: TailOversuit
-    breasts_pairround_impossible_0_BEHIND: Genital
+    breasts_pairround_impossible_0_FRONT: Genital
+    breasts_pair_impossible_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_impossible_0_FRONT: breasts_pairround_impossible_0_BEHIND
+    breasts_pairround_impossible_0_FRONT: breasts_pair_impossible_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_impossible_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_impossible_0_BEHIND
+    state: breasts_pair_impossible_0_BEHIND
 
 # Breast markings - Round pair, skintoned
 - type: marking
@@ -633,15 +613,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_a_s_0_FRONT: TailOversuit
-    breasts_pairround_a_s_0_BEHIND: Genital
+    breasts_pairround_a_s_0_FRONT: Genital
+    breasts_pair_a_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_a_s_0_FRONT: breasts_pairround_a_s_0_BEHIND
+    breasts_pairround_a_s_0_FRONT: breasts_pair_a_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_a_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_a_s_0_BEHIND
+    state: breasts_pair_a_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedB
@@ -649,15 +629,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_b_s_0_FRONT: TailOversuit
-    breasts_pairround_b_s_0_BEHIND: Genital
+    breasts_pairround_b_s_0_FRONT: Genital
+    breasts_pair_b_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_b_s_0_FRONT: breasts_pairround_b_s_0_BEHIND
+    breasts_pairround_b_s_0_FRONT: breasts_pair_b_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_b_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_b_s_0_BEHIND
+    state: breasts_pair_b_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedC
@@ -665,15 +645,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_c_s_0_FRONT: TailOversuit
-    breasts_pairround_c_s_0_BEHIND: Genital
+    breasts_pairround_c_s_0_FRONT: Genital
+    breasts_pair_c_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_c_s_0_FRONT: breasts_pairround_c_s_0_BEHIND
+    breasts_pairround_c_s_0_FRONT: breasts_pair_c_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_c_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_c_s_0_BEHIND
+    state: breasts_pair_c_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedD
@@ -681,15 +661,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_d_s_0_FRONT: TailOversuit
-    breasts_pairround_d_s_0_BEHIND: Genital
+    breasts_pairround_d_s_0_FRONT: Genital
+    breasts_pair_d_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_d_s_0_FRONT: breasts_pairround_d_s_0_BEHIND
+    breasts_pairround_d_s_0_FRONT: breasts_pair_d_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_d_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_d_s_0_BEHIND
+    state: breasts_pair_d_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedE
@@ -697,15 +677,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_e_s_0_FRONT: TailOversuit
-    breasts_pairround_e_s_0_BEHIND: Genital
+    breasts_pairround_e_s_0_FRONT: Genital
+    breasts_pair_e_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_e_s_0_FRONT: breasts_pairround_e_s_0_BEHIND
+    breasts_pairround_e_s_0_FRONT: breasts_pair_e_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_e_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_e_s_0_BEHIND
+    state: breasts_pair_e_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedF
@@ -713,15 +693,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_f_s_0_FRONT: TailOversuit
-    breasts_pairround_f_s_0_BEHIND: Genital
+    breasts_pairround_f_s_0_FRONT: Genital
+    breasts_pair_f_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_f_s_0_FRONT: breasts_pairround_f_s_0_BEHIND
+    breasts_pairround_f_s_0_FRONT: breasts_pair_f_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_f_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_f_s_0_BEHIND
+    state: breasts_pair_f_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedG
@@ -729,15 +709,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_g_s_0_FRONT: TailOversuit
-    breasts_pairround_g_s_0_BEHIND: Genital
+    breasts_pairround_g_s_0_FRONT: Genital
+    breasts_pair_g_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_g_s_0_FRONT: breasts_pairround_g_s_0_BEHIND
+    breasts_pairround_g_s_0_FRONT: breasts_pair_g_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_g_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_g_s_0_BEHIND
+    state: breasts_pair_g_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedH
@@ -745,15 +725,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_h_s_0_FRONT: TailOversuit
-    breasts_pairround_h_s_0_BEHIND: Genital
+    breasts_pairround_h_s_0_FRONT: Genital
+    breasts_pair_h_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_h_s_0_FRONT: breasts_pairround_h_s_0_BEHIND
+    breasts_pairround_h_s_0_FRONT: breasts_pair_h_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_h_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_h_s_0_BEHIND
+    state: breasts_pair_h_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedI
@@ -761,15 +741,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_i_s_0_FRONT: TailOversuit
-    breasts_pairround_i_s_0_BEHIND: Genital
+    breasts_pairround_i_s_0_FRONT: Genital
+    breasts_pair_i_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_i_s_0_FRONT: breasts_pairround_i_s_0_BEHIND
+    breasts_pairround_i_s_0_FRONT: breasts_pair_i_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_i_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_i_s_0_BEHIND
+    state: breasts_pair_i_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedJ
@@ -777,15 +757,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_j_s_0_FRONT: TailOversuit
-    breasts_pairround_j_s_0_BEHIND: Genital
+    breasts_pairround_j_s_0_FRONT: Genital
+    breasts_pair_j_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_j_s_0_FRONT: breasts_pairround_j_s_0_BEHIND
+    breasts_pairround_j_s_0_FRONT: breasts_pair_j_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_j_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_j_s_0_BEHIND
+    state: breasts_pair_j_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedK
@@ -793,15 +773,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_k_s_0_FRONT: TailOversuit
-    breasts_pairround_k_s_0_BEHIND: Genital
+    breasts_pairround_k_s_0_FRONT: Genital
+    breasts_pair_k_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_k_s_0_FRONT: breasts_pairround_k_s_0_BEHIND
+    breasts_pairround_k_s_0_FRONT: breasts_pair_k_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_k_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_k_s_0_BEHIND
+    state: breasts_pair_k_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedL
@@ -809,15 +789,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_l_s_0_FRONT: TailOversuit
-    breasts_pairround_l_s_0_BEHIND: Genital
+    breasts_pairround_l_s_0_FRONT: Genital
+    breasts_pair_l_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_l_s_0_FRONT: breasts_pairround_l_s_0_BEHIND
+    breasts_pairround_l_s_0_FRONT: breasts_pair_l_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_l_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_l_s_0_BEHIND
+    state: breasts_pair_l_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedM
@@ -825,15 +805,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_m_s_0_FRONT: TailOversuit
-    breasts_pairround_m_s_0_BEHIND: Genital
+    breasts_pairround_m_s_0_FRONT: Genital
+    breasts_pair_m_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_m_s_0_FRONT: breasts_pairround_m_s_0_BEHIND
+    breasts_pairround_m_s_0_FRONT: breasts_pair_m_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_m_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_m_s_0_BEHIND
+    state: breasts_pair_m_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedN
@@ -841,15 +821,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_n_s_0_FRONT: TailOversuit
-    breasts_pairround_n_s_0_BEHIND: Genital
+    breasts_pairround_n_s_0_FRONT: Genital
+    breasts_pair_n_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_n_s_0_FRONT: breasts_pairround_n_s_0_BEHIND
+    breasts_pairround_n_s_0_FRONT: breasts_pair_n_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_n_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_n_s_0_BEHIND
+    state: breasts_pair_n_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedO
@@ -857,15 +837,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_o_s_0_FRONT: TailOversuit
-    breasts_pairround_o_s_0_BEHIND: Genital
+    breasts_pairround_o_s_0_FRONT: Genital
+    breasts_pair_o_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_o_s_0_FRONT: breasts_pairround_o_s_0_BEHIND
+    breasts_pairround_o_s_0_FRONT: breasts_pair_o_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_o_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_o_s_0_BEHIND
+    state: breasts_pair_o_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedMassive
@@ -873,15 +853,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_massive_s_0_FRONT: TailOversuit
-    breasts_pairround_massive_s_0_BEHIND: Genital
+    breasts_pairround_massive_s_0_FRONT: Genital
+    breasts_pair_massive_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_massive_s_0_FRONT: breasts_pairround_massive_s_0_BEHIND
+    breasts_pairround_massive_s_0_FRONT: breasts_pair_massive_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_massive_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_massive_s_0_BEHIND
+    state: breasts_pair_massive_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedGiga
@@ -889,15 +869,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_giga_s_0_FRONT: TailOversuit
-    breasts_pairround_giga_s_0_BEHIND: Genital
+    breasts_pairround_giga_s_0_FRONT: Genital
+    breasts_pair_giga_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_giga_s_0_FRONT: breasts_pairround_giga_s_0_BEHIND
+    breasts_pairround_giga_s_0_FRONT: breasts_pair_giga_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_giga_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_giga_s_0_BEHIND
+    state: breasts_pair_giga_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsRoundSkintonedImpossible
@@ -905,15 +885,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pairround_impossible_s_0_FRONT: TailOversuit
-    breasts_pairround_impossible_s_0_BEHIND: Genital
+    breasts_pairround_impossible_s_0_FRONT: Genital
+    breasts_pair_impossible_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_pairround_impossible_s_0_FRONT: breasts_pairround_impossible_s_0_BEHIND
+    breasts_pairround_impossible_s_0_FRONT: breasts_pair_impossible_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pairround_impossible_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pairround_impossible_s_0_BEHIND
+    state: breasts_pair_impossible_s_0_BEHIND
 
 
 # Breast markings - Regular Pair (A-Cup through F-Cup)
@@ -922,48 +902,27 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_pair_a_0_FRONT: TailOversuit
-    breasts_pair_a_0_BEHIND: Genital
-  colorLinks:
-    breasts_pair_a_0_FRONT: breasts_pair_a_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pair_a_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pair_a_0_BEHIND
 
 - type: marking
   id: GenitalBreastsPairB
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_pair_b_0_FRONT: TailOversuit
-    breasts_pair_b_0_BEHIND: Genital
-  colorLinks:
-    breasts_pair_b_0_FRONT: breasts_pair_b_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pair_b_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pair_b_0_BEHIND
 
 - type: marking
   id: GenitalBreastsPairC
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_pair_c_0_FRONT: TailOversuit
-    breasts_pair_c_0_BEHIND: Genital
-  colorLinks:
-    breasts_pair_c_0_FRONT: breasts_pair_c_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_pair_c_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_pair_c_0_BEHIND
 
 - type: marking
   id: GenitalBreastsPairD
@@ -971,8 +930,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_d_0_FRONT: TailOversuit
-    breasts_pair_d_0_BEHIND: Genital
+    breasts_pair_d_0_FRONT: Genital
+    breasts_pair_d_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_d_0_FRONT: breasts_pair_d_0_BEHIND
   sprites:
@@ -987,8 +946,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_e_0_FRONT: TailOversuit
-    breasts_pair_e_0_BEHIND: Genital
+    breasts_pair_e_0_FRONT: Genital
+    breasts_pair_e_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_e_0_FRONT: breasts_pair_e_0_BEHIND
   sprites:
@@ -1003,8 +962,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_f_0_FRONT: TailOversuit
-    breasts_pair_f_0_BEHIND: Genital
+    breasts_pair_f_0_FRONT: Genital
+    breasts_pair_f_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_f_0_FRONT: breasts_pair_f_0_BEHIND
   sprites:
@@ -1019,8 +978,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_g_0_FRONT: TailOversuit
-    breasts_pair_g_0_BEHIND: Genital
+    breasts_pair_g_0_FRONT: Genital
+    breasts_pair_g_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_g_0_FRONT: breasts_pair_g_0_BEHIND
   sprites:
@@ -1035,8 +994,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_h_0_FRONT: TailOversuit
-    breasts_pair_h_0_BEHIND: Genital
+    breasts_pair_h_0_FRONT: Genital
+    breasts_pair_h_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_h_0_FRONT: breasts_pair_h_0_BEHIND
   sprites:
@@ -1051,8 +1010,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_i_0_FRONT: TailOversuit
-    breasts_pair_i_0_BEHIND: Genital
+    breasts_pair_i_0_FRONT: Genital
+    breasts_pair_i_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_i_0_FRONT: breasts_pair_i_0_BEHIND
   sprites:
@@ -1067,8 +1026,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_j_0_FRONT: TailOversuit
-    breasts_pair_j_0_BEHIND: Genital
+    breasts_pair_j_0_FRONT: Genital
+    breasts_pair_j_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_j_0_FRONT: breasts_pair_j_0_BEHIND
   sprites:
@@ -1083,8 +1042,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_k_0_FRONT: TailOversuit
-    breasts_pair_k_0_BEHIND: Genital
+    breasts_pair_k_0_FRONT: Genital
+    breasts_pair_k_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_k_0_FRONT: breasts_pair_k_0_BEHIND
   sprites:
@@ -1099,8 +1058,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_l_0_FRONT: TailOversuit
-    breasts_pair_l_0_BEHIND: Genital
+    breasts_pair_l_0_FRONT: Genital
+    breasts_pair_l_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_l_0_FRONT: breasts_pair_l_0_BEHIND
   sprites:
@@ -1115,8 +1074,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_m_0_FRONT: TailOversuit
-    breasts_pair_m_0_BEHIND: Genital
+    breasts_pair_m_0_FRONT: Genital
+    breasts_pair_m_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_m_0_FRONT: breasts_pair_m_0_BEHIND
   sprites:
@@ -1131,8 +1090,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_n_0_FRONT: TailOversuit
-    breasts_pair_n_0_BEHIND: Genital
+    breasts_pair_n_0_FRONT: Genital
+    breasts_pair_n_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_n_0_FRONT: breasts_pair_n_0_BEHIND
   sprites:
@@ -1147,8 +1106,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_o_0_FRONT: TailOversuit
-    breasts_pair_o_0_BEHIND: Genital
+    breasts_pair_o_0_FRONT: Genital
+    breasts_pair_o_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_o_0_FRONT: breasts_pair_o_0_BEHIND
   sprites:
@@ -1163,8 +1122,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_massive_0_FRONT: TailOversuit
-    breasts_pair_massive_0_BEHIND: Genital
+    breasts_pair_massive_0_FRONT: Genital
+    breasts_pair_massive_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_massive_0_FRONT: breasts_pair_massive_0_BEHIND
   sprites:
@@ -1179,8 +1138,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_giga_0_FRONT: TailOversuit
-    breasts_pair_giga_0_BEHIND: Genital
+    breasts_pair_giga_0_FRONT: Genital
+    breasts_pair_giga_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_giga_0_FRONT: breasts_pair_giga_0_BEHIND
   sprites:
@@ -1195,8 +1154,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_impossible_0_FRONT: TailOversuit
-    breasts_pair_impossible_0_BEHIND: Genital
+    breasts_pair_impossible_0_FRONT: Genital
+    breasts_pair_impossible_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_impossible_0_FRONT: breasts_pair_impossible_0_BEHIND
   sprites:
@@ -1212,8 +1171,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_a_s_0_FRONT: TailOversuit
-    breasts_pair_a_s_0_BEHIND: Genital
+    breasts_pair_a_s_0_FRONT: Genital
+    breasts_pair_a_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_a_s_0_FRONT: breasts_pair_a_s_0_BEHIND
   sprites:
@@ -1228,8 +1187,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_b_s_0_FRONT: TailOversuit
-    breasts_pair_b_s_0_BEHIND: Genital
+    breasts_pair_b_s_0_FRONT: Genital
+    breasts_pair_b_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_b_s_0_FRONT: breasts_pair_b_s_0_BEHIND
   sprites:
@@ -1244,8 +1203,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_c_s_0_FRONT: TailOversuit
-    breasts_pair_c_s_0_BEHIND: Genital
+    breasts_pair_c_s_0_FRONT: Genital
+    breasts_pair_c_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_c_s_0_FRONT: breasts_pair_c_s_0_BEHIND
   sprites:
@@ -1260,8 +1219,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_d_s_0_FRONT: TailOversuit
-    breasts_pair_d_s_0_BEHIND: Genital
+    breasts_pair_d_s_0_FRONT: Genital
+    breasts_pair_d_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_d_s_0_FRONT: breasts_pair_d_s_0_BEHIND
   sprites:
@@ -1276,8 +1235,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_e_s_0_FRONT: TailOversuit
-    breasts_pair_e_s_0_BEHIND: Genital
+    breasts_pair_e_s_0_FRONT: Genital
+    breasts_pair_e_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_e_s_0_FRONT: breasts_pair_e_s_0_BEHIND
   sprites:
@@ -1292,8 +1251,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_f_s_0_FRONT: TailOversuit
-    breasts_pair_f_s_0_BEHIND: Genital
+    breasts_pair_f_s_0_FRONT: Genital
+    breasts_pair_f_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_f_s_0_FRONT: breasts_pair_f_s_0_BEHIND
   sprites:
@@ -1308,8 +1267,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_g_s_0_FRONT: TailOversuit
-    breasts_pair_g_s_0_BEHIND: Genital
+    breasts_pair_g_s_0_FRONT: Genital
+    breasts_pair_g_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_g_s_0_FRONT: breasts_pair_g_s_0_BEHIND
   sprites:
@@ -1324,8 +1283,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_h_s_0_FRONT: TailOversuit
-    breasts_pair_h_s_0_BEHIND: Genital
+    breasts_pair_h_s_0_FRONT: Genital
+    breasts_pair_h_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_h_s_0_FRONT: breasts_pair_h_s_0_BEHIND
   sprites:
@@ -1340,8 +1299,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_i_s_0_FRONT: TailOversuit
-    breasts_pair_i_s_0_BEHIND: Genital
+    breasts_pair_i_s_0_FRONT: Genital
+    breasts_pair_i_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_i_s_0_FRONT: breasts_pair_i_s_0_BEHIND
   sprites:
@@ -1356,8 +1315,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_j_s_0_FRONT: TailOversuit
-    breasts_pair_j_s_0_BEHIND: Genital
+    breasts_pair_j_s_0_FRONT: Genital
+    breasts_pair_j_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_j_s_0_FRONT: breasts_pair_j_s_0_BEHIND
   sprites:
@@ -1372,8 +1331,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_k_s_0_FRONT: TailOversuit
-    breasts_pair_k_s_0_BEHIND: Genital
+    breasts_pair_k_s_0_FRONT: Genital
+    breasts_pair_k_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_k_s_0_FRONT: breasts_pair_k_s_0_BEHIND
   sprites:
@@ -1388,8 +1347,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_l_s_0_FRONT: TailOversuit
-    breasts_pair_l_s_0_BEHIND: Genital
+    breasts_pair_l_s_0_FRONT: Genital
+    breasts_pair_l_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_l_s_0_FRONT: breasts_pair_l_s_0_BEHIND
   sprites:
@@ -1404,8 +1363,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_m_s_0_FRONT: TailOversuit
-    breasts_pair_m_s_0_BEHIND: Genital
+    breasts_pair_m_s_0_FRONT: Genital
+    breasts_pair_m_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_m_s_0_FRONT: breasts_pair_m_s_0_BEHIND
   sprites:
@@ -1420,8 +1379,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_n_s_0_FRONT: TailOversuit
-    breasts_pair_n_s_0_BEHIND: Genital
+    breasts_pair_n_s_0_FRONT: Genital
+    breasts_pair_n_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_n_s_0_FRONT: breasts_pair_n_s_0_BEHIND
   sprites:
@@ -1436,8 +1395,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_o_s_0_FRONT: TailOversuit
-    breasts_pair_o_s_0_BEHIND: Genital
+    breasts_pair_o_s_0_FRONT: Genital
+    breasts_pair_o_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_o_s_0_FRONT: breasts_pair_o_s_0_BEHIND
   sprites:
@@ -1452,8 +1411,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_massive_s_0_FRONT: TailOversuit
-    breasts_pair_massive_s_0_BEHIND: Genital
+    breasts_pair_massive_s_0_FRONT: Genital
+    breasts_pair_massive_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_massive_s_0_FRONT: breasts_pair_massive_s_0_BEHIND
   sprites:
@@ -1468,8 +1427,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_giga_s_0_FRONT: TailOversuit
-    breasts_pair_giga_s_0_BEHIND: Genital
+    breasts_pair_giga_s_0_FRONT: Genital
+    breasts_pair_giga_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_giga_s_0_FRONT: breasts_pair_giga_s_0_BEHIND
   sprites:
@@ -1484,8 +1443,8 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_pair_impossible_s_0_FRONT: TailOversuit
-    breasts_pair_impossible_s_0_BEHIND: Genital
+    breasts_pair_impossible_s_0_FRONT: Genital
+    breasts_pair_impossible_s_0_BEHIND: TailBehind
   colorLinks:
     breasts_pair_impossible_s_0_FRONT: breasts_pair_impossible_s_0_BEHIND
   sprites:
@@ -1500,48 +1459,27 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quad_a_0_FRONT: TailOversuit
-    breasts_quad_a_0_BEHIND: Genital
-  colorLinks:
-    breasts_quad_a_0_FRONT: breasts_quad_a_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_a_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_a_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadB
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quad_b_0_FRONT: TailOversuit
-    breasts_quad_b_0_BEHIND: Genital
-  colorLinks:
-    breasts_quad_b_0_FRONT: breasts_quad_b_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_b_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_b_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadC
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quad_c_0_FRONT: TailOversuit
-    breasts_quad_c_0_BEHIND: Genital
-  colorLinks:
-    breasts_quad_c_0_FRONT: breasts_quad_c_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_c_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_c_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadD
@@ -1549,15 +1487,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_d_0_FRONT: TailOversuit
-    breasts_quad_d_0_BEHIND: Genital
+    breasts_quad_d_0_FRONT: Genital
+    breasts_pair_d_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_d_0_FRONT: breasts_quad_d_0_BEHIND
+    breasts_quad_d_0_FRONT: breasts_pair_d_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_d_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_d_0_BEHIND
+    state: breasts_pair_d_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadE
@@ -1565,15 +1503,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_e_0_FRONT: TailOversuit
-    breasts_quad_e_0_BEHIND: Genital
+    breasts_quad_e_0_FRONT: Genital
+    breasts_pair_e_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_e_0_FRONT: breasts_quad_e_0_BEHIND
+    breasts_quad_e_0_FRONT: breasts_pair_e_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_e_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_e_0_BEHIND
+    state: breasts_pair_e_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadF
@@ -1581,15 +1519,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_f_0_FRONT: TailOversuit
-    breasts_quad_f_0_BEHIND: Genital
+    breasts_quad_f_0_FRONT: Genital
+    breasts_pair_f_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_f_0_FRONT: breasts_quad_f_0_BEHIND
+    breasts_quad_f_0_FRONT: breasts_pair_f_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_f_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_f_0_BEHIND
+    state: breasts_pair_f_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadG
@@ -1597,15 +1535,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_g_0_FRONT: TailOversuit
-    breasts_quad_g_0_BEHIND: Genital
+    breasts_quad_g_0_FRONT: Genital
+    breasts_pair_g_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_g_0_FRONT: breasts_quad_g_0_BEHIND
+    breasts_quad_g_0_FRONT: breasts_pair_g_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_g_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_g_0_BEHIND
+    state: breasts_pair_g_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadH
@@ -1613,15 +1551,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_h_0_FRONT: TailOversuit
-    breasts_quad_h_0_BEHIND: Genital
+    breasts_quad_h_0_FRONT: Genital
+    breasts_pair_h_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_h_0_FRONT: breasts_quad_h_0_BEHIND
+    breasts_quad_h_0_FRONT: breasts_pair_h_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_h_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_h_0_BEHIND
+    state: breasts_pair_h_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadI
@@ -1629,15 +1567,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_i_0_FRONT: TailOversuit
-    breasts_quad_i_0_BEHIND: Genital
+    breasts_quad_i_0_FRONT: Genital
+    breasts_pair_i_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_i_0_FRONT: breasts_quad_i_0_BEHIND
+    breasts_quad_i_0_FRONT: breasts_pair_i_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_i_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_i_0_BEHIND
+    state: breasts_pair_i_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadJ
@@ -1645,15 +1583,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_j_0_FRONT: TailOversuit
-    breasts_quad_j_0_BEHIND: Genital
+    breasts_quad_j_0_FRONT: Genital
+    breasts_pair_j_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_j_0_FRONT: breasts_quad_j_0_BEHIND
+    breasts_quad_j_0_FRONT: breasts_pair_j_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_j_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_j_0_BEHIND
+    state: breasts_pair_j_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadK
@@ -1661,15 +1599,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_k_0_FRONT: TailOversuit
-    breasts_quad_k_0_BEHIND: Genital
+    breasts_quad_k_0_FRONT: Genital
+    breasts_pair_k_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_k_0_FRONT: breasts_quad_k_0_BEHIND
+    breasts_quad_k_0_FRONT: breasts_pair_k_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_k_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_k_0_BEHIND
+    state: breasts_pair_k_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadL
@@ -1677,15 +1615,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_l_0_FRONT: TailOversuit
-    breasts_quad_l_0_BEHIND: Genital
+    breasts_quad_l_0_FRONT: Genital
+    breasts_pair_l_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_l_0_FRONT: breasts_quad_l_0_BEHIND
+    breasts_quad_l_0_FRONT: breasts_pair_l_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_l_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_l_0_BEHIND
+    state: breasts_pair_l_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadM
@@ -1693,15 +1631,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_m_0_FRONT: TailOversuit
-    breasts_quad_m_0_BEHIND: Genital
+    breasts_quad_m_0_FRONT: Genital
+    breasts_pair_m_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_m_0_FRONT: breasts_quad_m_0_BEHIND
+    breasts_quad_m_0_FRONT: breasts_pair_m_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_m_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_m_0_BEHIND
+    state: breasts_pair_m_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadN
@@ -1709,15 +1647,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_n_0_FRONT: TailOversuit
-    breasts_quad_n_0_BEHIND: Genital
+    breasts_quad_n_0_FRONT: Genital
+    breasts_pair_n_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_n_0_FRONT: breasts_quad_n_0_BEHIND
+    breasts_quad_n_0_FRONT: breasts_pair_n_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_n_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_n_0_BEHIND
+    state: breasts_pair_n_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadO
@@ -1725,15 +1663,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_o_0_FRONT: TailOversuit
-    breasts_quad_o_0_BEHIND: Genital
+    breasts_quad_o_0_FRONT: Genital
+    breasts_pair_o_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_o_0_FRONT: breasts_quad_o_0_BEHIND
+    breasts_quad_o_0_FRONT: breasts_pair_o_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_o_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_o_0_BEHIND
+    state: breasts_pair_o_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadMassive
@@ -1741,15 +1679,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_massive_0_FRONT: TailOversuit
-    breasts_quad_massive_0_BEHIND: Genital
+    breasts_quad_massive_0_FRONT: Genital
+    breasts_pair_massive_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_massive_0_FRONT: breasts_quad_massive_0_BEHIND
+    breasts_quad_massive_0_FRONT: breasts_pair_massive_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_massive_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_massive_0_BEHIND
+    state: breasts_pair_massive_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadGiga
@@ -1757,15 +1695,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_giga_0_FRONT: TailOversuit
-    breasts_quad_giga_0_BEHIND: Genital
+    breasts_quad_giga_0_FRONT: Genital
+    breasts_pair_giga_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_giga_0_FRONT: breasts_quad_giga_0_BEHIND
+    breasts_quad_giga_0_FRONT: breasts_pair_giga_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_giga_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_giga_0_BEHIND
+    state: breasts_pair_giga_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadImpossible
@@ -1773,15 +1711,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_impossible_0_FRONT: TailOversuit
-    breasts_quad_impossible_0_BEHIND: Genital
+    breasts_quad_impossible_0_FRONT: Genital
+    breasts_pair_impossible_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_impossible_0_FRONT: breasts_quad_impossible_0_BEHIND
+    breasts_quad_impossible_0_FRONT: breasts_pair_impossible_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_impossible_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_impossible_0_BEHIND
+    state: breasts_pair_impossible_0_BEHIND
 
 #skintoned
 - type: marking
@@ -1790,15 +1728,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_a_s_0_FRONT: TailOversuit
-    breasts_quad_a_s_0_BEHIND: Genital
+    breasts_quad_a_s_0_FRONT: Genital
+    breasts_pair_a_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_a_s_0_FRONT: breasts_quad_a_s_0_BEHIND
+    breasts_quad_a_s_0_FRONT: breasts_pair_a_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_a_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_a_s_0_BEHIND
+    state: breasts_pair_a_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedB
@@ -1806,15 +1744,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_b_s_0_FRONT: TailOversuit
-    breasts_quad_b_s_0_BEHIND: Genital
+    breasts_quad_b_s_0_FRONT: Genital
+    breasts_pair_b_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_b_s_0_FRONT: breasts_quad_b_s_0_BEHIND
+    breasts_quad_b_s_0_FRONT: breasts_pair_b_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_b_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_b_s_0_BEHIND
+    state: breasts_pair_b_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedC
@@ -1822,15 +1760,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_c_s_0_FRONT: TailOversuit
-    breasts_quad_c_s_0_BEHIND: Genital
+    breasts_quad_c_s_0_FRONT: Genital
+    breasts_pair_c_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_c_s_0_FRONT: breasts_quad_c_s_0_BEHIND
+    breasts_quad_c_s_0_FRONT: breasts_pair_c_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_c_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_c_s_0_BEHIND
+    state: breasts_pair_c_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedD
@@ -1838,15 +1776,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_d_s_0_FRONT: TailOversuit
-    breasts_quad_d_s_0_BEHIND: Genital
+    breasts_quad_d_s_0_FRONT: Genital
+    breasts_pair_d_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_d_s_0_FRONT: breasts_quad_d_s_0_BEHIND
+    breasts_quad_d_s_0_FRONT: breasts_pair_d_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_d_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_d_s_0_BEHIND
+    state: breasts_pair_d_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedE
@@ -1854,15 +1792,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_e_s_0_FRONT: TailOversuit
-    breasts_quad_e_s_0_BEHIND: Genital
+    breasts_quad_e_s_0_FRONT: Genital
+    breasts_pair_e_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_e_s_0_FRONT: breasts_quad_e_s_0_BEHIND
+    breasts_quad_e_s_0_FRONT: breasts_pair_e_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_e_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_e_s_0_BEHIND
+    state: breasts_pair_e_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedF
@@ -1870,15 +1808,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_f_s_0_FRONT: TailOversuit
-    breasts_quad_f_s_0_BEHIND: Genital
+    breasts_quad_f_s_0_FRONT: Genital
+    breasts_pair_f_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_f_s_0_FRONT: breasts_quad_f_s_0_BEHIND
+    breasts_quad_f_s_0_FRONT: breasts_pair_f_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_f_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_f_s_0_BEHIND
+    state: breasts_pair_f_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedG
@@ -1886,15 +1824,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_g_s_0_FRONT: TailOversuit
-    breasts_quad_g_s_0_BEHIND: Genital
+    breasts_quad_g_s_0_FRONT: Genital
+    breasts_pair_g_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_g_s_0_FRONT: breasts_quad_g_s_0_BEHIND
+    breasts_quad_g_s_0_FRONT: breasts_pair_g_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_g_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_g_s_0_BEHIND
+    state: breasts_pair_g_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedH
@@ -1902,15 +1840,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_h_s_0_FRONT: TailOversuit
-    breasts_quad_h_s_0_BEHIND: Genital
+    breasts_quad_h_s_0_FRONT: Genital
+    breasts_pair_h_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_h_s_0_FRONT: breasts_quad_h_s_0_BEHIND
+    breasts_quad_h_s_0_FRONT: breasts_pair_h_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_h_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_h_s_0_BEHIND
+    state: breasts_pair_h_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedI
@@ -1918,15 +1856,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_i_s_0_FRONT: TailOversuit
-    breasts_quad_i_s_0_BEHIND: Genital
+    breasts_quad_i_s_0_FRONT: Genital
+    breasts_pair_i_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_i_s_0_FRONT: breasts_quad_i_s_0_BEHIND
+    breasts_quad_i_s_0_FRONT: breasts_pair_i_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_i_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_i_s_0_BEHIND
+    state: breasts_pair_i_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedJ
@@ -1934,15 +1872,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_j_s_0_FRONT: TailOversuit
-    breasts_quad_j_s_0_BEHIND: Genital
+    breasts_quad_j_s_0_FRONT: Genital
+    breasts_pair_j_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_j_s_0_FRONT: breasts_quad_j_s_0_BEHIND
+    breasts_quad_j_s_0_FRONT: breasts_pair_j_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_j_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_j_s_0_BEHIND
+    state: breasts_pair_j_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedK
@@ -1950,15 +1888,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_k_s_0_FRONT: TailOversuit
-    breasts_quad_k_s_0_BEHIND: Genital
+    breasts_quad_k_s_0_FRONT: Genital
+    breasts_pair_k_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_k_s_0_FRONT: breasts_quad_k_s_0_BEHIND
+    breasts_quad_k_s_0_FRONT: breasts_pair_k_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_k_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_k_s_0_BEHIND
+    state: breasts_pair_k_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedL
@@ -1966,15 +1904,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_l_s_0_FRONT: TailOversuit
-    breasts_quad_l_s_0_BEHIND: Genital
+    breasts_quad_l_s_0_FRONT: Genital
+    breasts_pair_l_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_l_s_0_FRONT: breasts_quad_l_s_0_BEHIND
+    breasts_quad_l_s_0_FRONT: breasts_pair_l_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_l_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_l_s_0_BEHIND
+    state: breasts_pair_l_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedM
@@ -1982,15 +1920,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_m_s_0_FRONT: TailOversuit
-    breasts_quad_m_s_0_BEHIND: Genital
+    breasts_quad_m_s_0_FRONT: Genital
+    breasts_pair_m_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_m_s_0_FRONT: breasts_quad_m_s_0_BEHIND
+    breasts_quad_m_s_0_FRONT: breasts_pair_m_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_m_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_m_s_0_BEHIND
+    state: breasts_pair_m_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedN
@@ -1998,15 +1936,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_n_s_0_FRONT: TailOversuit
-    breasts_quad_n_s_0_BEHIND: Genital
+    breasts_quad_n_s_0_FRONT: Genital
+    breasts_pair_n_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_n_s_0_FRONT: breasts_quad_n_s_0_BEHIND
+    breasts_quad_n_s_0_FRONT: breasts_pair_n_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_n_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_n_s_0_BEHIND
+    state: breasts_pair_n_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedO
@@ -2014,15 +1952,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_o_s_0_FRONT: TailOversuit
-    breasts_quad_o_s_0_BEHIND: Genital
+    breasts_quad_o_s_0_FRONT: Genital
+    breasts_pair_o_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_o_s_0_FRONT: breasts_quad_o_s_0_BEHIND
+    breasts_quad_o_s_0_FRONT: breasts_pair_o_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_o_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_o_s_0_BEHIND
+    state: breasts_pair_o_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedMassive
@@ -2030,15 +1968,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_massive_s_0_FRONT: TailOversuit
-    breasts_quad_massive_s_0_BEHIND: Genital
+    breasts_quad_massive_s_0_FRONT: Genital
+    breasts_pair_massive_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_massive_s_0_FRONT: breasts_quad_massive_s_0_BEHIND
+    breasts_quad_massive_s_0_FRONT: breasts_pair_massive_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_massive_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_massive_s_0_BEHIND
+    state: breasts_pair_massive_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedGiga
@@ -2046,15 +1984,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_giga_s_0_FRONT: TailOversuit
-    breasts_quad_giga_s_0_BEHIND: Genital
+    breasts_quad_giga_s_0_FRONT: Genital
+    breasts_pair_giga_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_giga_s_0_FRONT: breasts_quad_giga_s_0_BEHIND
+    breasts_quad_giga_s_0_FRONT: breasts_pair_giga_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_giga_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_giga_s_0_BEHIND
+    state: breasts_pair_giga_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadSkintonedImpossible
@@ -2062,15 +2000,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quad_impossible_s_0_FRONT: TailOversuit
-    breasts_quad_impossible_s_0_BEHIND: Genital
+    breasts_quad_impossible_s_0_FRONT: Genital
+    breasts_pair_impossible_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quad_impossible_s_0_FRONT: breasts_quad_impossible_s_0_BEHIND
+    breasts_quad_impossible_s_0_FRONT: breasts_pair_impossible_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quad_impossible_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quad_impossible_s_0_BEHIND
+    state: breasts_pair_impossible_s_0_BEHIND
 
 # Breast markings - quad, but with little nipples underneath like a doggo or smth
 - type: marking
@@ -2078,48 +2016,27 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quadlite_a_0_FRONT: TailOversuit
-    breasts_quadlite_a_0_BEHIND: Genital
-  colorLinks:
-    breasts_quadlite_a_0_FRONT: breasts_quadlite_a_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_a_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_a_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteB
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quadlite_b_0_FRONT: TailOversuit
-    breasts_quadlite_b_0_BEHIND: Genital
-  colorLinks:
-    breasts_quadlite_b_0_FRONT: breasts_quadlite_b_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_b_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_b_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteC
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quadlite_c_0_FRONT: TailOversuit
-    breasts_quadlite_c_0_BEHIND: Genital
-  colorLinks:
-    breasts_quadlite_c_0_FRONT: breasts_quadlite_c_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_c_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_c_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteD
@@ -2127,15 +2044,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_d_0_FRONT: TailOversuit
-    breasts_quadlite_d_0_BEHIND: Genital
+    breasts_quadlite_d_0_FRONT: Genital
+    breasts_pair_d_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_d_0_FRONT: breasts_quadlite_d_0_BEHIND
+    breasts_quadlite_d_0_FRONT: breasts_pair_d_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_d_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_d_0_BEHIND
+    state: breasts_pair_d_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteE
@@ -2143,15 +2060,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_e_0_FRONT: TailOversuit
-    breasts_quadlite_e_0_BEHIND: Genital
+    breasts_quadlite_e_0_FRONT: Genital
+    breasts_pair_e_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_e_0_FRONT: breasts_quadlite_e_0_BEHIND
+    breasts_quadlite_e_0_FRONT: breasts_pair_e_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_e_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_e_0_BEHIND
+    state: breasts_pair_e_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteF
@@ -2159,15 +2076,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_f_0_FRONT: TailOversuit
-    breasts_quadlite_f_0_BEHIND: Genital
+    breasts_quadlite_f_0_FRONT: Genital
+    breasts_pair_f_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_f_0_FRONT: breasts_quadlite_f_0_BEHIND
+    breasts_quadlite_f_0_FRONT: breasts_pair_f_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_f_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_f_0_BEHIND
+    state: breasts_pair_f_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteG
@@ -2175,15 +2092,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_g_0_FRONT: TailOversuit
-    breasts_quadlite_g_0_BEHIND: Genital
+    breasts_quadlite_g_0_FRONT: Genital
+    breasts_pair_g_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_g_0_FRONT: breasts_quadlite_g_0_BEHIND
+    breasts_quadlite_g_0_FRONT: breasts_pair_g_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_g_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_g_0_BEHIND
+    state: breasts_pair_g_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteH
@@ -2191,15 +2108,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_h_0_FRONT: TailOversuit
-    breasts_quadlite_h_0_BEHIND: Genital
+    breasts_quadlite_h_0_FRONT: Genital
+    breasts_pair_h_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_h_0_FRONT: breasts_quadlite_h_0_BEHIND
+    breasts_quadlite_h_0_FRONT: breasts_pair_h_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_h_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_h_0_BEHIND
+    state: breasts_pair_h_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteI
@@ -2207,15 +2124,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_i_0_FRONT: TailOversuit
-    breasts_quadlite_i_0_BEHIND: Genital
+    breasts_quadlite_i_0_FRONT: Genital
+    breasts_pair_i_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_i_0_FRONT: breasts_quadlite_i_0_BEHIND
+    breasts_quadlite_i_0_FRONT: breasts_pair_i_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_i_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_i_0_BEHIND
+    state: breasts_pair_i_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteJ
@@ -2223,15 +2140,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_j_0_FRONT: TailOversuit
-    breasts_quadlite_j_0_BEHIND: Genital
+    breasts_quadlite_j_0_FRONT: Genital
+    breasts_pair_j_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_j_0_FRONT: breasts_quadlite_j_0_BEHIND
+    breasts_quadlite_j_0_FRONT: breasts_pair_j_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_j_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_j_0_BEHIND
+    state: breasts_pair_j_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteK
@@ -2239,15 +2156,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_k_0_FRONT: TailOversuit
-    breasts_quadlite_k_0_BEHIND: Genital
+    breasts_quadlite_k_0_FRONT: Genital
+    breasts_pair_k_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_k_0_FRONT: breasts_quadlite_k_0_BEHIND
+    breasts_quadlite_k_0_FRONT: breasts_pair_k_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_k_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_k_0_BEHIND
+    state: breasts_pair_k_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteL
@@ -2255,15 +2172,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_l_0_FRONT: TailOversuit
-    breasts_quadlite_l_0_BEHIND: Genital
+    breasts_quadlite_l_0_FRONT: Genital
+    breasts_pair_l_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_l_0_FRONT: breasts_quadlite_l_0_BEHIND
+    breasts_quadlite_l_0_FRONT: breasts_pair_l_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_l_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_l_0_BEHIND
+    state: breasts_pair_l_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteM
@@ -2271,15 +2188,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_m_0_FRONT: TailOversuit
-    breasts_quadlite_m_0_BEHIND: Genital
+    breasts_quadlite_m_0_FRONT: Genital
+    breasts_pair_m_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_m_0_FRONT: breasts_quadlite_m_0_BEHIND
+    breasts_quadlite_m_0_FRONT: breasts_pair_m_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_m_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_m_0_BEHIND
+    state: breasts_pair_m_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteN
@@ -2287,15 +2204,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_n_0_FRONT: TailOversuit
-    breasts_quadlite_n_0_BEHIND: Genital
+    breasts_quadlite_n_0_FRONT: Genital
+    breasts_pair_n_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_n_0_FRONT: breasts_quadlite_n_0_BEHIND
+    breasts_quadlite_n_0_FRONT: breasts_pair_n_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_n_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_n_0_BEHIND
+    state: breasts_pair_n_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteO
@@ -2303,15 +2220,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_o_0_FRONT: TailOversuit
-    breasts_quadlite_o_0_BEHIND: Genital
+    breasts_quadlite_o_0_FRONT: Genital
+    breasts_pair_o_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_o_0_FRONT: breasts_quadlite_o_0_BEHIND
+    breasts_quadlite_o_0_FRONT: breasts_pair_o_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_o_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_o_0_BEHIND
+    state: breasts_pair_o_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteMassive
@@ -2319,15 +2236,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_massive_0_FRONT: TailOversuit
-    breasts_quadlite_massive_0_BEHIND: Genital
+    breasts_quadlite_massive_0_FRONT: Genital
+    breasts_pair_massive_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_massive_0_FRONT: breasts_quadlite_massive_0_BEHIND
+    breasts_quadlite_massive_0_FRONT: breasts_pair_massive_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_massive_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_massive_0_BEHIND
+    state: breasts_pair_massive_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteGiga
@@ -2335,15 +2252,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_giga_0_FRONT: TailOversuit
-    breasts_quadlite_giga_0_BEHIND: Genital
+    breasts_quadlite_giga_0_FRONT: Genital
+    breasts_pair_giga_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_giga_0_FRONT: breasts_quadlite_giga_0_BEHIND
+    breasts_quadlite_giga_0_FRONT: breasts_pair_giga_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_giga_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_giga_0_BEHIND
+    state: breasts_pair_giga_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadliteImpossible
@@ -2351,15 +2268,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadlite_impossible_0_FRONT: TailOversuit
-    breasts_quadlite_impossible_0_BEHIND: Genital
+    breasts_quadlite_impossible_0_FRONT: Genital
+    breasts_pair_impossible_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadlite_impossible_0_FRONT: breasts_quadlite_impossible_0_BEHIND
+    breasts_quadlite_impossible_0_FRONT: breasts_pair_impossible_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadlite_impossible_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadlite_impossible_0_BEHIND
+    state: breasts_pair_impossible_0_BEHIND
 
 # Breast markings - Quad, but with FOUR little nipples underneath like a doggo or smth
 - type: marking
@@ -2367,48 +2284,27 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quadplus_a_0_FRONT: TailOversuit
-    breasts_quadplus_a_0_BEHIND: Genital
-  colorLinks:
-    breasts_quadplus_a_0_FRONT: breasts_quadplus_a_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_a_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_a_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusB
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quadplus_b_0_FRONT: TailOversuit
-    breasts_quadplus_b_0_BEHIND: Genital
-  colorLinks:
-    breasts_quadplus_b_0_FRONT: breasts_quadplus_b_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_b_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_b_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusC
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_quadplus_c_0_FRONT: TailOversuit
-    breasts_quadplus_c_0_BEHIND: Genital
-  colorLinks:
-    breasts_quadplus_c_0_FRONT: breasts_quadplus_c_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_c_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_c_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusD
@@ -2416,15 +2312,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_d_0_FRONT: TailOversuit
-    breasts_quadplus_d_0_BEHIND: Genital
+    breasts_quadplus_d_0_FRONT: Genital
+    breasts_pair_d_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_d_0_FRONT: breasts_quadplus_d_0_BEHIND
+    breasts_quadplus_d_0_FRONT: breasts_pair_d_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_d_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_d_0_BEHIND
+    state: breasts_pair_d_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusE
@@ -2432,15 +2328,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_e_0_FRONT: TailOversuit
-    breasts_quadplus_e_0_BEHIND: Genital
+    breasts_quadplus_e_0_FRONT: Genital
+    breasts_pair_e_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_e_0_FRONT: breasts_quadplus_e_0_BEHIND
+    breasts_quadplus_e_0_FRONT: breasts_pair_e_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_e_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_e_0_BEHIND
+    state: breasts_pair_e_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusF
@@ -2448,15 +2344,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_f_0_FRONT: TailOversuit
-    breasts_quadplus_f_0_BEHIND: Genital
+    breasts_quadplus_f_0_FRONT: Genital
+    breasts_pair_f_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_f_0_FRONT: breasts_quadplus_f_0_BEHIND
+    breasts_quadplus_f_0_FRONT: breasts_pair_f_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_f_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_f_0_BEHIND
+    state: breasts_pair_f_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusG
@@ -2464,15 +2360,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_g_0_FRONT: TailOversuit
-    breasts_quadplus_g_0_BEHIND: Genital
+    breasts_quadplus_g_0_FRONT: Genital
+    breasts_pair_g_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_g_0_FRONT: breasts_quadplus_g_0_BEHIND
+    breasts_quadplus_g_0_FRONT: breasts_pair_g_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_g_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_g_0_BEHIND
+    state: breasts_pair_g_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusH
@@ -2480,15 +2376,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_h_0_FRONT: TailOversuit
-    breasts_quadplus_h_0_BEHIND: Genital
+    breasts_quadplus_h_0_FRONT: Genital
+    breasts_pair_h_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_h_0_FRONT: breasts_quadplus_h_0_BEHIND
+    breasts_quadplus_h_0_FRONT: breasts_pair_h_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_h_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_h_0_BEHIND
+    state: breasts_pair_h_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusI
@@ -2496,15 +2392,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_i_0_FRONT: TailOversuit
-    breasts_quadplus_i_0_BEHIND: Genital
+    breasts_quadplus_i_0_FRONT: Genital
+    breasts_pair_i_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_i_0_FRONT: breasts_quadplus_i_0_BEHIND
+    breasts_quadplus_i_0_FRONT: breasts_pair_i_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_i_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_i_0_BEHIND
+    state: breasts_pair_i_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusJ
@@ -2512,15 +2408,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_j_0_FRONT: TailOversuit
-    breasts_quadplus_j_0_BEHIND: Genital
+    breasts_quadplus_j_0_FRONT: Genital
+    breasts_pair_j_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_j_0_FRONT: breasts_quadplus_j_0_BEHIND
+    breasts_quadplus_j_0_FRONT: breasts_pair_j_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_j_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_j_0_BEHIND
+    state: breasts_pair_j_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusK
@@ -2528,15 +2424,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_k_0_FRONT: TailOversuit
-    breasts_quadplus_k_0_BEHIND: Genital
+    breasts_quadplus_k_0_FRONT: Genital
+    breasts_pair_k_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_k_0_FRONT: breasts_quadplus_k_0_BEHIND
+    breasts_quadplus_k_0_FRONT: breasts_pair_k_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_k_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_k_0_BEHIND
+    state: breasts_pair_k_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusL
@@ -2544,15 +2440,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_l_0_FRONT: TailOversuit
-    breasts_quadplus_l_0_BEHIND: Genital
+    breasts_quadplus_l_0_FRONT: Genital
+    breasts_pair_l_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_l_0_FRONT: breasts_quadplus_l_0_BEHIND
+    breasts_quadplus_l_0_FRONT: breasts_pair_l_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_l_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_l_0_BEHIND
+    state: breasts_pair_l_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusM
@@ -2560,15 +2456,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_m_0_FRONT: TailOversuit
-    breasts_quadplus_m_0_BEHIND: Genital
+    breasts_quadplus_m_0_FRONT: Genital
+    breasts_pair_m_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_m_0_FRONT: breasts_quadplus_m_0_BEHIND
+    breasts_quadplus_m_0_FRONT: breasts_pair_m_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_m_0_FRONT
+    state: breasts_quadplus_M_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_m_0_BEHIND
+    state: breasts_pair_m_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusN
@@ -2576,15 +2472,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_n_0_FRONT: TailOversuit
-    breasts_quadplus_n_0_BEHIND: Genital
+    breasts_quadplus_n_0_FRONT: Genital
+    breasts_pair_n_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_n_0_FRONT: breasts_quadplus_n_0_BEHIND
+    breasts_quadplus_n_0_FRONT: breasts_pair_n_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_n_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_n_0_BEHIND
+    state: breasts_pair_n_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusO
@@ -2592,15 +2488,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_o_0_FRONT: TailOversuit
-    breasts_quadplus_o_0_BEHIND: Genital
+    breasts_quadplus_o_0_FRONT: Genital
+    breasts_pair_o_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_o_0_FRONT: breasts_quadplus_o_0_BEHIND
+    breasts_quadplus_o_0_FRONT: breasts_pair_o_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_o_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_o_0_BEHIND
+    state: breasts_pair_o_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusMassive
@@ -2608,15 +2504,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_massive_0_FRONT: TailOversuit
-    breasts_quadplus_massive_0_BEHIND: Genital
+    breasts_quadplus_massive_0_FRONT: Genital
+    breasts_pair_massive_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_massive_0_FRONT: breasts_quadplus_massive_0_BEHIND
+    breasts_quadplus_massive_0_FRONT: breasts_pair_massive_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_massive_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_massive_0_BEHIND
+    state: breasts_pair_massive_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusGiga
@@ -2624,15 +2520,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_giga_0_FRONT: TailOversuit
-    breasts_quadplus_giga_0_BEHIND: Genital
+    breasts_quadplus_giga_0_FRONT: Genital
+    breasts_pair_giga_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_giga_0_FRONT: breasts_quadplus_giga_0_BEHIND
+    breasts_quadplus_giga_0_FRONT: breasts_pair_giga_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_giga_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_giga_0_BEHIND
+    state: breasts_pair_giga_0_BEHIND
 
 - type: marking
   id: GenitalBreastsQuadplusImpossible
@@ -2640,15 +2536,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_quadplus_impossible_0_FRONT: TailOversuit
-    breasts_quadplus_impossible_0_BEHIND: Genital
+    breasts_quadplus_impossible_0_FRONT: Genital
+    breasts_pair_impossible_0_BEHIND: TailBehind
   colorLinks:
-    breasts_quadplus_impossible_0_FRONT: breasts_quadplus_impossible_0_BEHIND
+    breasts_quadplus_impossible_0_FRONT: breasts_pair_impossible_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_quadplus_impossible_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_quadplus_impossible_0_BEHIND
+    state: breasts_pair_impossible_0_BEHIND
 
 # Breast markings - Sextuple (6 breasts)
 - type: marking
@@ -2656,48 +2552,27 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_sextuple_a_0_FRONT: TailOversuit
-    breasts_sextuple_a_0_BEHIND: Genital
-  colorLinks:
-    breasts_sextuple_a_0_FRONT: breasts_sextuple_a_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_a_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_a_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleB
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_sextuple_b_0_FRONT: TailOversuit
-    breasts_sextuple_b_0_BEHIND: Genital
-  colorLinks:
-    breasts_sextuple_b_0_FRONT: breasts_sextuple_b_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_b_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_b_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleC
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  layering:
-    breasts_sextuple_c_0_FRONT: TailOversuit
-    breasts_sextuple_c_0_BEHIND: Genital
-  colorLinks:
-    breasts_sextuple_c_0_FRONT: breasts_sextuple_c_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_c_0_FRONT
-  - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_c_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleD
@@ -2705,15 +2580,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_d_0_FRONT: TailOversuit
-    breasts_sextuple_d_0_BEHIND: Genital
+    breasts_sextuple_d_0_FRONT: Genital
+    breasts_pair_d_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_d_0_FRONT: breasts_sextuple_d_0_BEHIND
+    breasts_sextuple_d_0_FRONT: breasts_pair_d_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_d_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_d_0_BEHIND
+    state: breasts_pair_d_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleE
@@ -2721,15 +2596,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_e_0_FRONT: TailOversuit
-    breasts_sextuple_e_0_BEHIND: Genital
+    breasts_sextuple_e_0_FRONT: Genital
+    breasts_pair_e_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_e_0_FRONT: breasts_sextuple_e_0_BEHIND
+    breasts_sextuple_e_0_FRONT: breasts_pair_e_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_e_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_e_0_BEHIND
+    state: breasts_pair_e_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleF
@@ -2737,15 +2612,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_f_0_FRONT: TailOversuit
-    breasts_sextuple_f_0_BEHIND: Genital
+    breasts_sextuple_f_0_FRONT: Genital
+    breasts_pair_f_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_f_0_FRONT: breasts_sextuple_f_0_BEHIND
+    breasts_sextuple_f_0_FRONT: breasts_pair_f_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_f_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_f_0_BEHIND
+    state: breasts_pair_f_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleG
@@ -2753,15 +2628,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_g_0_FRONT: TailOversuit
-    breasts_sextuple_g_0_BEHIND: Genital
+    breasts_sextuple_g_0_FRONT: Genital
+    breasts_pair_g_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_g_0_FRONT: breasts_sextuple_g_0_BEHIND
+    breasts_sextuple_g_0_FRONT: breasts_pair_g_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_g_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_g_0_BEHIND
+    state: breasts_pair_g_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleH
@@ -2769,15 +2644,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_h_0_FRONT: TailOversuit
-    breasts_sextuple_h_0_BEHIND: Genital
+    breasts_sextuple_h_0_FRONT: Genital
+    breasts_pair_h_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_h_0_FRONT: breasts_sextuple_h_0_BEHIND
+    breasts_sextuple_h_0_FRONT: breasts_pair_h_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_h_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_h_0_BEHIND
+    state: breasts_pair_h_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleI
@@ -2785,15 +2660,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_i_0_FRONT: TailOversuit
-    breasts_sextuple_i_0_BEHIND: Genital
+    breasts_sextuple_i_0_FRONT: Genital
+    breasts_pair_i_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_i_0_FRONT: breasts_sextuple_i_0_BEHIND
+    breasts_sextuple_i_0_FRONT: breasts_pair_i_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_i_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_i_0_BEHIND
+    state: breasts_pair_i_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleJ
@@ -2801,15 +2676,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_j_0_FRONT: TailOversuit
-    breasts_sextuple_j_0_BEHIND: Genital
+    breasts_sextuple_j_0_FRONT: Genital
+    breasts_pair_j_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_j_0_FRONT: breasts_sextuple_j_0_BEHIND
+    breasts_sextuple_j_0_FRONT: breasts_pair_j_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_j_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_j_0_BEHIND
+    state: breasts_pair_j_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleK
@@ -2817,15 +2692,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_k_0_FRONT: TailOversuit
-    breasts_sextuple_k_0_BEHIND: Genital
+    breasts_sextuple_k_0_FRONT: Genital
+    breasts_pair_k_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_k_0_FRONT: breasts_sextuple_k_0_BEHIND
+    breasts_sextuple_k_0_FRONT: breasts_pair_k_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_k_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_k_0_BEHIND
+    state: breasts_pair_k_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleL
@@ -2833,15 +2708,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_l_0_FRONT: TailOversuit
-    breasts_sextuple_l_0_BEHIND: Genital
+    breasts_sextuple_l_0_FRONT: Genital
+    breasts_pair_l_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_l_0_FRONT: breasts_sextuple_l_0_BEHIND
+    breasts_sextuple_l_0_FRONT: breasts_pair_l_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_l_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_l_0_BEHIND
+    state: breasts_pair_l_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleM
@@ -2849,15 +2724,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_m_0_FRONT: TailOversuit
-    breasts_sextuple_m_0_BEHIND: Genital
+    breasts_sextuple_m_0_FRONT: Genital
+    breasts_pair_m_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_m_0_FRONT: breasts_sextuple_m_0_BEHIND
+    breasts_sextuple_m_0_FRONT: breasts_pair_m_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_m_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_m_0_BEHIND
+    state: breasts_pair_m_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleN
@@ -2865,15 +2740,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_n_0_FRONT: TailOversuit
-    breasts_sextuple_n_0_BEHIND: Genital
+    breasts_sextuple_n_0_FRONT: Genital
+    breasts_pair_n_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_n_0_FRONT: breasts_sextuple_n_0_BEHIND
+    breasts_sextuple_n_0_FRONT: breasts_pair_n_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_n_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_n_0_BEHIND
+    state: breasts_pair_n_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleO
@@ -2881,15 +2756,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_o_0_FRONT: TailOversuit
-    breasts_sextuple_o_0_BEHIND: Genital
+    breasts_sextuple_o_0_FRONT: Genital
+    breasts_pair_o_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_o_0_FRONT: breasts_sextuple_o_0_BEHIND
+    breasts_sextuple_o_0_FRONT: breasts_pair_o_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_o_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_o_0_BEHIND
+    state: breasts_pair_o_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleMassive
@@ -2897,15 +2772,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_massive_0_FRONT: TailOversuit
-    breasts_sextuple_massive_0_BEHIND: Genital
+    breasts_sextuple_massive_0_FRONT: Genital
+    breasts_pair_massive_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_massive_0_FRONT: breasts_sextuple_massive_0_BEHIND
+    breasts_sextuple_massive_0_FRONT: breasts_pair_massive_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_massive_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_massive_0_BEHIND
+    state: breasts_pair_massive_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleGiga
@@ -2913,15 +2788,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_giga_0_FRONT: TailOversuit
-    breasts_sextuple_giga_0_BEHIND: Genital
+    breasts_sextuple_giga_0_FRONT: Genital
+    breasts_pair_giga_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_giga_0_FRONT: breasts_sextuple_giga_0_BEHIND
+    breasts_sextuple_giga_0_FRONT: breasts_pair_giga_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_giga_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_giga_0_BEHIND
+    state: breasts_pair_giga_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleImpossible
@@ -2929,15 +2804,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_impossible_0_FRONT: TailOversuit
-    breasts_sextuple_impossible_0_BEHIND: Genital
+    breasts_sextuple_impossible_0_FRONT: Genital
+    breasts_pair_impossible_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_impossible_0_FRONT: breasts_sextuple_impossible_0_BEHIND
+    breasts_sextuple_impossible_0_FRONT: breasts_pair_impossible_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_impossible_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_impossible_0_BEHIND
+    state: breasts_pair_impossible_0_BEHIND
 
 #skintoned
 - type: marking
@@ -2946,15 +2821,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_a_s_0_FRONT: TailOversuit
-    breasts_sextuple_a_s_0_BEHIND: Genital
+    breasts_sextuple_a_s_0_FRONT: Genital
+    breasts_pair_a_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_a_s_0_FRONT: breasts_sextuple_a_s_0_BEHIND
+    breasts_sextuple_a_s_0_FRONT: breasts_pair_a_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_a_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_a_s_0_BEHIND
+    state: breasts_pair_a_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedB
@@ -2962,15 +2837,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_b_s_0_FRONT: TailOversuit
-    breasts_sextuple_b_s_0_BEHIND: Genital
+    breasts_sextuple_b_s_0_FRONT: Genital
+    breasts_pair_b_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_b_s_0_FRONT: breasts_sextuple_b_s_0_BEHIND
+    breasts_sextuple_b_s_0_FRONT: breasts_pair_b_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_b_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_b_s_0_BEHIND
+    state: breasts_pair_b_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedC
@@ -2978,15 +2853,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_c_s_0_FRONT: TailOversuit
-    breasts_sextuple_c_s_0_BEHIND: Genital
+    breasts_sextuple_c_s_0_FRONT: Genital
+    breasts_pair_c_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_c_s_0_FRONT: breasts_sextuple_c_s_0_BEHIND
+    breasts_sextuple_c_s_0_FRONT: breasts_pair_c_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_c_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_c_s_0_BEHIND
+    state: breasts_pair_c_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedD
@@ -2994,15 +2869,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_d_s_0_FRONT: TailOversuit
-    breasts_sextuple_d_s_0_BEHIND: Genital
+    breasts_sextuple_d_s_0_FRONT: Genital
+    breasts_pair_d_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_d_s_0_FRONT: breasts_sextuple_d_s_0_BEHIND
+    breasts_sextuple_d_s_0_FRONT: breasts_pair_d_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_d_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_d_s_0_BEHIND
+    state: breasts_pair_d_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedE
@@ -3010,15 +2885,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_e_s_0_FRONT: TailOversuit
-    breasts_sextuple_e_s_0_BEHIND: Genital
+    breasts_sextuple_e_s_0_FRONT: Genital
+    breasts_pair_e_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_e_s_0_FRONT: breasts_sextuple_e_s_0_BEHIND
+    breasts_sextuple_e_s_0_FRONT: breasts_pair_e_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_e_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_e_s_0_BEHIND
+    state: breasts_pair_e_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedF
@@ -3026,15 +2901,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_f_s_0_FRONT: TailOversuit
-    breasts_sextuple_f_s_0_BEHIND: Genital
+    breasts_sextuple_f_s_0_FRONT: Genital
+    breasts_pair_f_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_f_s_0_FRONT: breasts_sextuple_f_s_0_BEHIND
+    breasts_sextuple_f_s_0_FRONT: breasts_pair_f_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_f_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_f_s_0_BEHIND
+    state: breasts_pair_f_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedG
@@ -3042,15 +2917,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_g_s_0_FRONT: TailOversuit
-    breasts_sextuple_g_s_0_BEHIND: Genital
+    breasts_sextuple_g_s_0_FRONT: Genital
+    breasts_pair_g_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_g_s_0_FRONT: breasts_sextuple_g_s_0_BEHIND
+    breasts_sextuple_g_s_0_FRONT: breasts_pair_g_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_g_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_g_s_0_BEHIND
+    state: breasts_pair_g_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedH
@@ -3058,15 +2933,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_h_s_0_FRONT: TailOversuit
-    breasts_sextuple_h_s_0_BEHIND: Genital
+    breasts_sextuple_h_s_0_FRONT: Genital
+    breasts_pair_h_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_h_s_0_FRONT: breasts_sextuple_h_s_0_BEHIND
+    breasts_sextuple_h_s_0_FRONT: breasts_pair_h_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_h_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_h_s_0_BEHIND
+    state: breasts_pair_h_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedI
@@ -3074,15 +2949,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_i_s_0_FRONT: TailOversuit
-    breasts_sextuple_i_s_0_BEHIND: Genital
+    breasts_sextuple_i_s_0_FRONT: Genital
+    breasts_pair_i_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_i_s_0_FRONT: breasts_sextuple_i_s_0_BEHIND
+    breasts_sextuple_i_s_0_FRONT: breasts_pair_i_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_i_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_i_s_0_BEHIND
+    state: breasts_pair_i_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedJ
@@ -3090,15 +2965,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_j_s_0_FRONT: TailOversuit
-    breasts_sextuple_j_s_0_BEHIND: Genital
+    breasts_sextuple_j_s_0_FRONT: Genital
+    breasts_pair_j_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_j_s_0_FRONT: breasts_sextuple_j_s_0_BEHIND
+    breasts_sextuple_j_s_0_FRONT: breasts_pair_j_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_j_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_j_s_0_BEHIND
+    state: breasts_pair_j_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedK
@@ -3106,15 +2981,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_k_s_0_FRONT: TailOversuit
-    breasts_sextuple_k_s_0_BEHIND: Genital
+    breasts_sextuple_k_s_0_FRONT: Genital
+    breasts_pair_k_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_k_s_0_FRONT: breasts_sextuple_k_s_0_BEHIND
+    breasts_sextuple_k_s_0_FRONT: breasts_pair_k_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_k_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_k_s_0_BEHIND
+    state: breasts_pair_k_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedL
@@ -3122,15 +2997,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_l_s_0_FRONT: TailOversuit
-    breasts_sextuple_l_s_0_BEHIND: Genital
+    breasts_sextuple_l_s_0_FRONT: Genital
+    breasts_pair_l_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_l_s_0_FRONT: breasts_sextuple_l_s_0_BEHIND
+    breasts_sextuple_l_s_0_FRONT: breasts_pair_l_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_l_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_l_s_0_BEHIND
+    state: breasts_pair_l_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedM
@@ -3138,15 +3013,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_m_s_0_FRONT: TailOversuit
-    breasts_sextuple_m_s_0_BEHIND: Genital
+    breasts_sextuple_m_s_0_FRONT: Genital
+    breasts_pair_m_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_m_s_0_FRONT: breasts_sextuple_m_s_0_BEHIND
+    breasts_sextuple_m_s_0_FRONT: breasts_pair_m_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_m_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_m_s_0_BEHIND
+    state: breasts_pair_m_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedN
@@ -3154,15 +3029,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_n_s_0_FRONT: TailOversuit
-    breasts_sextuple_n_s_0_BEHIND: Genital
+    breasts_sextuple_n_s_0_FRONT: Genital
+    breasts_pair_n_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_n_s_0_FRONT: breasts_sextuple_n_s_0_BEHIND
+    breasts_sextuple_n_s_0_FRONT: breasts_pair_n_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_n_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_n_s_0_BEHIND
+    state: breasts_pair_n_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedO
@@ -3170,15 +3045,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_o_s_0_FRONT: TailOversuit
-    breasts_sextuple_o_s_0_BEHIND: Genital
+    breasts_sextuple_o_s_0_FRONT: Genital
+    breasts_pair_o_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_o_s_0_FRONT: breasts_sextuple_o_s_0_BEHIND
+    breasts_sextuple_o_s_0_FRONT: breasts_pair_o_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_o_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_o_s_0_BEHIND
+    state: breasts_pair_o_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedMassive
@@ -3186,15 +3061,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_massive_s_0_FRONT: TailOversuit
-    breasts_sextuple_massive_s_0_BEHIND: Genital
+    breasts_sextuple_massive_s_0_FRONT: Genital
+    breasts_pair_massive_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_massive_s_0_FRONT: breasts_sextuple_massive_s_0_BEHIND
+    breasts_sextuple_massive_s_0_FRONT: breasts_pair_massive_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_massive_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_massive_s_0_BEHIND
+    state: breasts_pair_massive_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedGiga
@@ -3202,15 +3077,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_giga_s_0_FRONT: TailOversuit
-    breasts_sextuple_giga_s_0_BEHIND: Genital
+    breasts_sextuple_giga_s_0_FRONT: Genital
+    breasts_pair_giga_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_giga_s_0_FRONT: breasts_sextuple_giga_s_0_BEHIND
+    breasts_sextuple_giga_s_0_FRONT: breasts_pair_giga_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_giga_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_giga_s_0_BEHIND
+    state: breasts_pair_giga_s_0_BEHIND
 
 - type: marking
   id: GenitalBreastsSextupleSkintonedImpossible
@@ -3218,15 +3093,15 @@
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    breasts_sextuple_impossible_s_0_FRONT: TailOversuit
-    breasts_sextuple_impossible_s_0_BEHIND: Genital
+    breasts_sextuple_impossible_s_0_FRONT: Genital
+    breasts_pair_impossible_s_0_BEHIND: TailBehind
   colorLinks:
-    breasts_sextuple_impossible_s_0_FRONT: breasts_sextuple_impossible_s_0_BEHIND
+    breasts_sextuple_impossible_s_0_FRONT: breasts_pair_impossible_s_0_BEHIND
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
     state: breasts_sextuple_impossible_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/breasts.rsi
-    state: breasts_sextuple_impossible_s_0_BEHIND
+    state: breasts_pair_impossible_s_0_BEHIND
 
 # Breast markings - Udders
 - type: marking

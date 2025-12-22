@@ -4,10 +4,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_1_obese
@@ -17,10 +13,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_2_obese
@@ -30,10 +22,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_3_obese
@@ -43,10 +31,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_4_obese
@@ -56,10 +40,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_5_obese
@@ -148,10 +128,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_1_tummy
@@ -161,10 +137,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_2_tummy
@@ -174,10 +146,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_3_tummy
@@ -187,10 +155,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_4_tummy
@@ -200,10 +164,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_5_tummy
@@ -292,10 +252,6 @@
   bodyPart: Genital
   markingCategory: Genital
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-  coloring:
-    default:
-      type: null
-      fallbackColor: '#FFFFFF'
   sprites:
   - sprite: Mobs/Customization/Markings/Genital/belly.rsi
     state: belly_1_udders
@@ -440,8 +396,8 @@
   speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    butt_pair_2_0_FRONT: TailOversuit
-    butt_pair_2_0_MID: Eyes
+    butt_pair_2_0_FRONT: Genital
+    butt_pair_2_0_MID: Genital
   colorLinks:
     butt_pair_2_0_MID: butt_pair_2_0_FRONT
   sprites:
@@ -457,8 +413,8 @@
   speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    butt_pair_3_0_FRONT: TailOversuit
-    butt_pair_3_0_MID: Eyes
+    butt_pair_3_0_FRONT: Genital
+    butt_pair_3_0_MID: Genital
   colorLinks:
     butt_pair_3_0_MID: butt_pair_3_0_FRONT
   sprites:
@@ -466,40 +422,56 @@
     state: butt_pair_3_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/butt.rsi
     state: butt_pair_3_0_MID
-#
-#- type: marking
-#  id: GenitalButt3
-#  bodyPart: Genital
-#  markingCategory: Genital
-#  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
-#  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-#  layering:
-#    butt_pair_4_0_FRONT: TailOversuit
-#    butt_pair_4_0_MID: Eyes
-#  colorLinks:
-#    butt_pair_4_0_MID: butt_pair_4_0_FRONT
-#  sprites:
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_4_0_FRONT
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_4_0_MID
-#
-#- type: marking
-#  id: GenitalButt4
-#  bodyPart: Genital
-#  markingCategory: Genital
-#  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
-#  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-#  layering:
-#    butt_pair_5_0_FRONT: TailOversuit
-#    butt_pair_5_0_MID: Eyes
-#  colorLinks:
-#    butt_pair_5_0_MID: butt_pair_5_0_FRONT
-#  sprites:
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_5_0_FRONT
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_5_0_MID
+
+- type: marking
+  id: GenitalButt3
+  bodyPart: Genital
+  markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
+  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
+  layering:
+    butt_pair_4_0_FRONT: Genital
+    butt_pair_4_0_MID: Genital
+  colorLinks:
+    butt_pair_4_0_MID: butt_pair_4_0_FRONT
+  sprites:
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_4_0_FRONT
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_4_0_MID
+- type: marking
+  id: GenitalButt3
+  bodyPart: Genital
+  markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
+  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
+  layering:
+    butt_pair_4_0_FRONT: Genital
+    butt_pair_4_0_MID: Genital
+  colorLinks:
+    butt_pair_4_0_MID: butt_pair_4_0_FRONT
+  sprites:
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_4_0_FRONT
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_4_0_MID
+
+- type: marking
+  id: GenitalButt4
+  bodyPart: Genital
+  markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
+  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
+  layering:
+    butt_pair_5_0_FRONT: Genital
+    butt_pair_5_0_MID: Genital
+  colorLinks:
+    butt_pair_5_0_MID: butt_pair_5_0_FRONT
+  sprites:
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_5_0_FRONT
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_5_0_MID
 #
 #- type: marking
 #  id: GenitalButt5
@@ -508,8 +480,8 @@
 #  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
 #  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
 #  layering:
-#    butt_pair_6_0_FRONT: TailOversuit
-#    butt_pair_6_0_MID: Eyes
+#    butt_pair_6_0_FRONT: Genital
+#    butt_pair_6_0_MID: Genital
 #  colorLinks:
 #    butt_pair_6_0_MID: butt_pair_6_0_FRONT
 #  sprites:
@@ -525,8 +497,8 @@
 #  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
 #  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
 #  layering:
-#    butt_pair_7_0_FRONT: TailOversuit
-#    butt_pair_7_0_MID: Eyes
+#    butt_pair_7_0_FRONT: Genital
+#    butt_pair_7_0_MID: Genital
 #  colorLinks:
 #    butt_pair_7_0_MID: butt_pair_7_0_FRONT
 #  sprites:
@@ -542,8 +514,8 @@
 #  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
 #  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
 #  layering:
-#    butt_pair_8_0_FRONT: TailOversuit
-#    butt_pair_8_0_MID: Eyes
+#    butt_pair_8_0_FRONT: Genital
+#    butt_pair_8_0_MID: Genital
 #  colorLinks:
 #    butt_pair_8_0_MID: butt_pair_8_0_FRONT
 #  sprites:
@@ -560,8 +532,8 @@
   speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
   kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
   layering:
-    butt_pair_2_s_0_FRONT: TailOversuit
-    butt_pair_2_s_0_MID: Eyes
+    butt_pair_2_s_0_FRONT: Genital
+    butt_pair_2_s_0_MID: Genital
   colorLinks:
     butt_pair_2_s_0_MID: butt_pair_2_s_0_FRONT
   sprites:
@@ -569,57 +541,57 @@
     state: butt_pair_2_s_0_FRONT
   - sprite: Mobs/Customization/Markings/Genital/butt.rsi
     state: butt_pair_2_s_0_MID
-#
-#- type: marking
-#  id: GenitalButtSkintoned2
-#  bodyPart: Genital
-#  markingCategory: Genital
-#  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
-#  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-#  layering:
-#    butt_pair_3_s_0_FRONT: TailOversuit
-#    butt_pair_3_s_0_MID: Eyes
-#  colorLinks:
-#    butt_pair_3_s_0_MID: butt_pair_3_s_0_FRONT
-#  sprites:
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_3_s_0_FRONT
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_3_s_0_MID
-#
-#- type: marking
-#  id: GenitalButtSkintoned3
-#  bodyPart: Genital
-#  markingCategory: Genital
-#  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
-#  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-#  layering:
-#    butt_pair_4_s_0_FRONT: TailOversuit
-#    butt_pair_4_s_0_MID: Eyes
-#  colorLinks:
-#    butt_pair_4_s_0_MID: butt_pair_4_s_0_FRONT
-#  sprites:
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_4_s_0_FRONT
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_4_s_0_MID
-#
-#- type: marking
-#  id: GenitalButtSkintoned4
-#  bodyPart: Genital
-#  markingCategory: Genital
-#  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
-#  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
-#  layering:
-#    butt_pair_5_s_0_FRONT: TailOversuit
-#    butt_pair_5_s_0_MID: Eyes
-#  colorLinks:
-#    butt_pair_5_s_0_MID: butt_pair_5_s_0_FRONT
-#  sprites:
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_5_s_0_FRONT
-#  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
-#    state: butt_pair_5_s_0_MID
+
+- type: marking
+  id: GenitalButtSkintoned2
+  bodyPart: Genital
+  markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
+  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
+  layering:
+    butt_pair_3_s_0_FRONT: Genital
+    butt_pair_3_s_0_MID: Genital
+  colorLinks:
+    butt_pair_3_s_0_MID: butt_pair_3_s_0_FRONT
+  sprites:
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_3_s_0_FRONT
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_3_s_0_MID
+
+- type: marking
+  id: GenitalButtSkintoned3
+  bodyPart: Genital
+  markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
+  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
+  layering:
+    butt_pair_4_s_0_FRONT: Genital
+    butt_pair_4_s_0_MID: Genital
+  colorLinks:
+    butt_pair_4_s_0_MID: butt_pair_4_s_0_FRONT
+  sprites:
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_4_s_0_FRONT
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_4_s_0_MID
+
+- type: marking
+  id: GenitalButtSkintoned4
+  bodyPart: Genital
+  markingCategory: Genital
+  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
+  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
+  layering:
+    butt_pair_5_s_0_FRONT: Genital
+    butt_pair_5_s_0_MID: Genital
+  colorLinks:
+    butt_pair_5_s_0_MID: butt_pair_5_s_0_FRONT
+  sprites:
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_5_s_0_FRONT
+  - sprite: Mobs/Customization/Markings/Genital/butt.rsi
+    state: butt_pair_5_s_0_MID
 #
 #- type: marking
 #  id: GenitalButtSkintoned5
@@ -628,8 +600,8 @@
 #  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
 #  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
 #  layering:
-#    butt_pair_6_s_0_FRONT: TailOversuit
-#    butt_pair_6_s_0_MID: Eyes
+#    butt_pair_6_s_0_FRONT: Genital
+#    butt_pair_6_s_0_MID: Genital
 #  colorLinks:
 #    butt_pair_6_s_0_MID: butt_pair_6_s_0_FRONT
 #  sprites:
@@ -645,8 +617,8 @@
 #  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
 #  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
 #  layering:
-#    butt_pair_7_s_0_FRONT: TailOversuit
-#    butt_pair_7_s_0_MID: Eyes
+#    butt_pair_7_s_0_FRONT: Genital
+#    butt_pair_7_s_0_MID: Genital
 #  colorLinks:
 #    butt_pair_7_s_0_MID: butt_pair_7_s_0_FRONT
 #  sprites:
@@ -662,8 +634,8 @@
 #  speciesRestriction: [Vulpkanin, Rodentia, SlimePerson, Human, Harpy, IPC, Arachne, Felinid, Oni, Kitsune]
 #  kindAllowance: [BasicHumanlike, BasicFurry, Resomi, VoxLike]
 #  layering:
-#    butt_pair_8_s_0_FRONT: TailOversuit
-#    butt_pair_8_s_0_MID: Eyes
+#    butt_pair_8_s_0_FRONT: Genital
+#    butt_pair_8_s_0_MID: Genital
 #  colorLinks:
 #    butt_pair_8_s_0_MID: butt_pair_8_s_0_FRONT
 #  sprites:

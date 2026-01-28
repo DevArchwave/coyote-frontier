@@ -10,6 +10,9 @@
   stations:
     Frontier:
       stationProto: StandardFrontierStation
+      gridComponents:
+      - type: VesselInfo # WF
+        description: "Home away from home."
       components:
         - type: StationNameSetup
           mapNameTemplate: 'Nash Station'

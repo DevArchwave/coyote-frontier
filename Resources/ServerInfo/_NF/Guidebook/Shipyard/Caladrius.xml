@@ -1,14 +1,14 @@
 <Document>
-  # CALADRIUS-CLASS HOSPITAL SHUTTLE
-  <Box>
-    <GuideEntityEmbed Entity="BannerMedical" Caption="Restore"/>
-    <GuideEntityEmbed Entity="NFPosterContrabandFsbLogo" Caption="Research"/>
-    <GuideEntityEmbed Entity="BannerEngineering" Caption="Recover"/>    
-  </Box>
-  <Box>
-  <GuideEntityEmbed Entity="ShuttleMapCaladrius" Caption=""/>
-  </Box>
-  [color=#a4885c]Ship Size:[/color] Large
+# CALADRIUS-CLASS HOSPITAL SHUTTLE
+<Box>
+  <GuideEntityEmbed Entity="BannerMedical" Caption="Restore"/>
+  <GuideEntityEmbed Entity="NFPosterContrabandFsbLogo" Caption="Research"/>
+  <GuideEntityEmbed Entity="BannerEngineering" Caption="Recover"/>
+</Box>
+<Box>
+<GuideEntityEmbed Entity="ShuttleMapCaladrius" Caption=""/>
+</Box>
+[color=#a4885c]Ship Size:[/color] Large - Carrier
 
   [color=#a4885c]Recommended Crew:[/color] 5-10
 
@@ -25,7 +25,7 @@
   <Box>
     <GuideEntityEmbed Entity="ButtonFrameCautionSecurity" Caption="Bolt Exterior Airlocks"/>
     <GuideEntityEmbed Entity="ButtonFrameCaution" Caption="Actuate Blast Doors"/>
-    <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Actuate Shutters"/>    
+    <GuideEntityEmbed Entity="ButtonFrameGrey" Caption="Actuate Shutters"/>
   </Box>
 
   # CALADRIUS STAFFING
@@ -43,7 +43,7 @@
 </Box>
 <Box>
   <GuideEntityEmbed Entity="RandomHumanoidVisitorSalvageSpecialist" Caption=""/>
-  <GuideEntityEmbed Entity="SignSalvage" Caption=""/>
+  <GuideEntityEmbed Entity="SignCargo" Caption=""/>
   <GuideEntityEmbed Entity="RandomHumanoidVisitorCargoTechnician" Caption=""/>
 </Box>
 <Box>
@@ -63,7 +63,7 @@
 
   - Adjacent to the power monitoring station in the primary power nacelle are the controls to toggle thruster power.
   - Engineers are advised to power down thrusters for maintenance or by commander directive.
-  
+
 ## 1.2. Battery units
 <Box>
   <GuideEntityEmbed Entity="SMESBasic"/>
@@ -100,31 +100,31 @@
   <GuideEntityEmbed Entity="GasMixer"/>
   <GuideEntityEmbed Entity="GasPressurePump"/>
   </Box>
-  
+
   - Check that the O2 canister is anchored to connector port.
   - Check that the N2 canister is anchored to connector port.
   - Check that the gas mixer is set to the correct mixing ratio (21% Oxygen, 79% Nitrogen).
   - Check that the gas mixer is set to 101kPa.
   - Enable gas mixer.
-  
+
   ## 2.2. Waste Loop
   <Box>
   <GuideEntityEmbed Entity="GasPressurePump"/>
   </Box>
-    
+
   - Enable waste loop pump (located in the atmospherics bay.).
   - Note that the Caladrius features a waste gas capture system. Which can be accessed via a port in the salvage bay.
   - To utilize the Caladrius waste gas capture system the outboard pump must be deactivated and gasses routed into appropriate capture systems.
   - This system is best maintained by a trained atmospherics technician.
 
-  
+
   ## 3. Other checks
   <Box>
   <GuideEntityEmbed Entity="Gyroscope"/>
   <GuideEntityEmbed Entity="GravityGeneratorMini"/>
   <GuideEntityEmbed Entity="BlastDoor"/>
   </Box>
-  
+
   - Check that the gyroscope is anchored, powered, and enabled.
   - Check that the mini gravity generator is anchored, powered, and enabled.
   - Check that the blast doors are closed and secured.

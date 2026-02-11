@@ -5,43 +5,51 @@
 - type: tile
   id: LatticeCornerNE
   parent: Lattice
-  name: tiles-latticecornerNE
+  name: NE lattice
   sprite: /Textures/_Mono/Tiles/lattice/ne.png
 
 - type: tile
   id: LatticeCornerNW
   parent: Lattice
-  name: tiles-latticecornerNW
+  name: NW lattice
   sprite: /Textures/_Mono/Tiles/lattice/nw.png
 
 - type: tile
   id: LatticeCornerSE
   parent: Lattice
-  name: tiles-latticecornerSE
+  name: SE lattice
   sprite: /Textures/_Mono/Tiles/lattice/se.png
 
 - type: tile
   id: LatticeCornerSW
   parent: Lattice
-  name: tiles-latticecornerSW
+  name: SW lattice
   sprite: /Textures/_Mono/Tiles/lattice/sw.png
 
 - type: tile
   id: PlatingCornerNE
   parent: Plating
-  name: tiles-platingcornerNE
+  name: NE plating
   sprite: /Textures/_Mono/Tiles/plating/ne.png
 
 - type: tile
   id: PlatingCornerNW
   parent: Plating
-  name: tiles-platingcornerNW
+  name: NW plating
   sprite: /Textures/_Mono/Tiles/plating/nw.png
+  vertices: ["0, 0", "1, 1", "0, 1"]
+
+- type: tile
+  id: PlatingCornerSE
+  parent: Plating
+  name: SE plating
+  sprite: /Textures/_Mono/Tiles/plating/se.png
+  vertices: ["0, 0", "1, 0", "1, 1"]
 
 - type: tile
   id: PlatingCornerSW
   parent: Plating
-  name: tiles-platingcornerSW
+  name: SW plating
   sprite: /Textures/_Mono/Tiles/plating/sw.png
 
 - type: tile

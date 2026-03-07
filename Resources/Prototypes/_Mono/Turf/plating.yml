@@ -51,9 +51,3 @@
   parent: Plating
   name: SW plating
   sprite: /Textures/_Mono/Tiles/plating/sw.png
-
-- type: tile
-  id: PlatingCornerSE
-  parent: Plating
-  name: tiles-platingcornerSE
-  sprite: /Textures/_Mono/Tiles/plating/se.png

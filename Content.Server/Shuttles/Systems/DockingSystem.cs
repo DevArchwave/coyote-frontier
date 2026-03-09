@@ -475,9 +475,9 @@ namespace Content.Server.Shuttles.Systems
         {
             if (args.DockEntities.Count == 0)
                 return;
-            
+
             var undockedAny = false;
-            
+
             foreach (var dockEntity in args.DockEntities)
             {
                 if (!TryGetEntity(dockEntity, out var dockEnt) ||
@@ -496,7 +496,7 @@ namespace Content.Server.Shuttles.Systems
                 Undock(dock);
                 undockedAny = true;
             }
-            
+
             if (!undockedAny)
             {
                 _popup.PopupCursor(Loc.GetString("shuttle-console-undock-fail"));

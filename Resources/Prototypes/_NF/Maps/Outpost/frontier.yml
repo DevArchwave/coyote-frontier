@@ -14,7 +14,7 @@
       - type: VesselMusic
         ambientMusicPrototype: ColossusCentralMusic
       - type: VesselInfo # WF
-        description: "Welcome to Wayfarer Outpost. Enjoy your stay."
+        description: "Home away from home."
       components:
         - type: StationNameSetup
           mapNameTemplate: 'Nash Station'
